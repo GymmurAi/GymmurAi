@@ -39,6 +39,6 @@ To get started with GlymmurAI, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/GlymmurAi/GlymmurAi.git
+   git clone https://github.com/GlymmurAi
    ```
    
